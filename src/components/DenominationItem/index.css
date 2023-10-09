@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.btn1 {
+  background-color: #7c3aed;
+  color: white;
+  padding: 10px;
+  width: 18vw;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  flex-grow: 1;
+  cursor: pointer;
+}
